@@ -1,4 +1,4 @@
-﻿<!-- 
+<!-- 
 	- Icons: https://devicon.dev/ 
 	- Spotify widget: https://github.com/codeSTACKr/spotify-now-playing/blob/master/SetUp.md
 	- A lot of stuff: https://github.com/VeroMoreno/readme-deadlines/blob/master/README-personal.md
@@ -10,13 +10,10 @@
 
 # About me
 Hi! I'm Lalo, a Junior Developer interested on task automation, bots and every kind of new and exciting tecnology in general! 
-</p>
 
-<p style="margin-bottom: 3%">
 If it doesn't exists, code it!
-</p>
 
-# Github
+# Github stats
 <img align="center" width="45%" max-height="45%" style="margin: 1.5%;" src="https://github-readme-stats.vercel.app/api?username=la-lo-go&show_icons=true&theme=dracula" alt="My user stats overview"/>
 <img align="center" width=45% max-height="45%" style="margin: 1.5%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=la-lo-go&layout=compact&theme=dracula" alt="My most used programs in projects"/>
 
@@ -36,12 +33,10 @@ If it doesn't exists, code it!
 <a href="https://jquery.com/"><img width="10%" style="margin: 1.5%;" src="imgs/jquery-plain-wordmark.svg" alt="Jquery"/></a>
 
 <!-- Styles -->
-<p>
 <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img width="10%" style="margin: 1.5%;" src="imgs/css3-original.svg" alt="CSS"/></a>
 <a href="https://sass-lang.com/"><img width="10%" style="margin: 1.5%;" src="imgs/sass-original.svg" alt="SASS"/></a>
 <a href="https://getbootstrap.com/"><img width="10%" style="margin: 1.5%;" src="imgs/bootstrap-original.svg" alt="Bootstrap"/></a>
 <a href="https://www.tailwind-tools.com/"><img width="10%" style="margin: 1.5%;" src="imgs/tailwindcss-plain.svg" alt="Tailwind"/></a>
-</p>
 
 ## Databases
 <a href="https://www.mysql.com/"><img width="10%" style="margin: 1.5%;" src="imgs/mysql-original-wordmark.svg" alt="MySQL"/></a>
@@ -51,18 +46,18 @@ If it doesn't exists, code it!
 
 ## Tools & Technologies
 <a href="https://code.visualstudio.com/"><img width="10%" style="margin: 1.5%;" src="imgs/vscode-original.svg" alt="Visual Studio Code"/></a>
-<a href="https://visualstudio.com/"><img width="10%" style="margin: 1.5%;" src="imgs/visualstudio-plain.svg" alt="Visual Studio"/></a>
 <a href="https://www.jetbrains.com/"><img width="10%" style="margin: 1.5%;" src="imgs/jetbrains-original.svg" alt="JetBrains"/></a>
 <a href="https://www.eclipse.org/downloads/"><img width="10%" style="margin: 1.5%;" src="imgs/Eclipse-Luna-Logo.svg" alt="Eclipse"/></a>
+<a href="https://visualstudio.com/"><img width="10%" style="margin: 1.5%;" src="imgs/visualstudio-plain.svg" alt="Visual Studio"/></a>
 <a href="https://www.notion.so/product/"><img width="10%" style="margin: 1.5%;" src="imgs/Notion-logo.svg" alt="Notion"/></a>
 <a href="https://www.postman.com/"><img width="10%" style="margin: 1.5%;" src="imgs/getpostman-icon.svg" alt="Postman"/></a>
 <a href="https://www.raspberrypi.org/"><img width="10%" style="margin: 1.5%;" src="imgs/raspberrypi-original.svg" alt="Raspberry Pi"/></a>
-<a href="https://railway.app/"><img width="10%" style="margin: 1.5%;" src="imgs/railway-light.svg#gh-dark-mode-only" alt="Railway"/>
-<a href="https://railway.app/"><img width="10%" style="margin: 1.5%;" src="imgs/railway-dark.svg#gh-light-mode-only" alt="Railway"/>
+<img width="10%" style="margin: 1.5%;" src="imgs/railway-light.svg#gh-dark-mode-only" alt="Railway"/>
+<img width="10%" style="margin: 1.5%;" src="imgs/railway-dark.svg#gh-light-mode-only" alt="Railway"/>
 <a href="https://www.office.com/"><img width="10%" style="margin: 1.5%;" src="imgs/Microsoft_Office_logo_(2019–present).svg" alt="Office"/></a>
 <a href="https://git-scm.com/"><img width="10%" style="margin: 1.5%;" src="imgs/git-original.svg" alt="Git"/></a>
-<a href="https://github.com/"><img width="10%" style="margin: 1.5%;" src="imgs/github-dark.svg#gh-light-mode-only" alt="Github"/>
-<a href="https://github.com/"><img width="10%" style="margin: 1.5%;" src="imgs/github-ligth.svg#gh-dark-mode-only" alt="Github"/>
+<img width="10%" style="margin: 1.5%;" src="imgs/github-dark.svg#gh-light-mode-only" alt="Github"/>
+<img width="10%" style="margin: 1.5%;" src="imgs/github-ligth.svg#gh-dark-mode-only" alt="Github"/>
 <a href="https://www.selenium.dev/"><img width="10%" style="margin: 1.5%;" src="imgs/selenium-original.svg" alt="Selenium"/></a>
 
 # Graphic Desing Stack
