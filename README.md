@@ -13,9 +13,9 @@ Hi! I'm Lalo, a Junior Developer interested on task automation, bots and every k
 If it doesn't exists, code it!
 
 # Github stats
-|                                                         |                                                                       |
-| :-----------------------------------------------------: | :-------------------------------------------------------------------: |
-| ![statsOscuro][statsOscuro] ![statsClaros][statsClaros] | ![lenguajesOscuro][lenguajesOscuro] ![lenguajesClaro][lenguajesClaro] |
+|                             |                                      |
+| :-------------------------: | :----------------------------------: |
+| ![statsOscuro][statsOscuro] | ![lenguajesOscuro][lenguajesOscuro]  |
 
 [statsOscuro]: https://github-readme-stats.vercel.app/api?username=la-lo-go&show_icons=true&hide_title=true&hide=issues&theme=blueberry&hide_border=true&border_radius=2%#gh-dark-mode-only
 
