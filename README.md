@@ -31,7 +31,7 @@ If it doesn't exists, code it!
 <a href="https://www.java.com/"><img width="9%" src="imgs/java-original.svg" alt="Java"/></a>
 <a href="https://go.dev/"><img width="9%" src="imgs/go-original-wordmark.svg" alt="Go"/></a>
 <a href="https://nodejs.org/"><img width="9%" src="imgs/nodejs-original.svg" alt="NodeJS"/></a>
-<a href="https://docs.microsoft.com/en-gb/dotnet/csharp/"><img width="9%"  src="imgs/csharp-original.svg" alt="CSharp"/></a>
+<a href="https://docs.microsoft.com/en-gb/dotnet/"><img width="9%"  src="imgs/Microsoft_.NET_logo.svg" alt="CSharp"/></a>
 
 ## Web Development
 <!-- Structure and logic -->
@@ -55,22 +55,24 @@ If it doesn't exists, code it!
 <img width="9%" src="imgs/microsoftsqlserver-plain-wordmark-dark.svg#gh-light-mode-only" alt="Microsoft SQL Server"/>
 
 ## Tools & Technologies
-<a href="https://code.visualstudio.com/"><img width="9%" src="imgs/vscode-original.svg" alt="Visual Studio Code"/></a>
-<a href="https://www.jetbrains.com/"><img width="9%" src="imgs/jetbrains-original.svg" alt="JetBrains"/></a>
-<a href="https://www.eclipse.org/downloads/"><img width="9%" src="imgs/Eclipse-Luna-Logo.svg" alt="Eclipse"/></a>
-<a href="https://visualstudio.com/"><img width="9%" src="imgs/visualstudio-plain.svg" alt="Visual Studio"/></a>
-<a href="https://docker.com/"><img width="9%" src="imgs/docker-plain-wordmark.svg" alt="Visual Studio"/></a>
-
+<a href="https://docker.com/"><img width="9%" src="imgs/docker-plain-wordmark.svg" alt="Docker"/></a>
 <a href="https://www.notion.so/product/"><img width="9%" src="imgs/Notion-logo.svg" alt="Notion"/></a>
 <a href="https://www.postman.com/"><img width="9%" src="imgs/getpostman-icon.svg" alt="Postman"/></a>
+
 <a href="https://www.raspberrypi.org/"><img width="9%" src="imgs/raspberrypi-original.svg" alt="Raspberry Pi"/></a>
 <img width="9%" src="imgs/railway-light.svg#gh-dark-mode-only" alt="Railway"/>
 <img width="9%" src="imgs/railway-dark.svg#gh-light-mode-only" alt="Railway"/>
-<a href="https://www.office.com/"><img width="9%" src="imgs/Microsoft_Office_logo_(2019–present).svg" alt="Office"/></a>
 <a href="https://git-scm.com/"><img width="9%" src="imgs/git-original.svg" alt="Git"/></a>
 <img width="9%" src="imgs/github-dark.svg#gh-light-mode-only" alt="Github"/>
 <img width="9%" src="imgs/github-ligth.svg#gh-dark-mode-only" alt="Github"/>
 <a href="https://www.selenium.dev/"><img width="9%" src="imgs/selenium-original.svg" alt="Selenium"/></a>
+
+<!-- 
+
+## Cocreator
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valle-code&repo=bingo&theme=blueberry&hide_border=true&border_radius=2)](https://github.com/valle-code/Bingo) 
+
+-->
 
 # Graphic Desing Stack
 <a href="https://www.adobe.com/products/photoshop.html"><img width="9%" src="imgs/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop"/></a>
