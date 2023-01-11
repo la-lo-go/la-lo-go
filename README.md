@@ -7,13 +7,13 @@
 -->
 <div id="content" align="center">
 
-# About me
-Hi! I'm Lalo, a Junior Developer interested on task automation, bots and every kind of new and exciting tecnology in general! 
+# Hello world! I'm Lalo
+I'm a developer interested on task automation, bots and every kind of new and exciting technology in general! 
 
 If it doesn't exists, code it!
 
-# Github stats
-|                             |                                      |
+
+|        Github stats         |         Most used languages          |
 | :-------------------------: | :----------------------------------: |
 | ![statsOscuro][statsOscuro] | ![lenguajesOscuro][lenguajesOscuro]  |
 
