@@ -86,7 +86,8 @@ If it doesn't exists, code it!
 <a href="https://youtu.be/8yMJI918ub4?t=9"><img height="9%" src="imgs/PAYPAL_badge.svg" alt="PayPal"/></a>
 
 # Listening to...
-<img height="60%" width="60%" src="https://spotify-readme-la-lo-go.vercel.app/api?theme=dark#gh-dark-mode-only" alt="Spotify"/>
+
+<img height="60%" width="60%" src="https://spotify-readme-la-lo-go.vercel.app/api?theme=dark#gh-dark-mode-only" alt="Spotify widget"/>
 <img height="60%" width="60%" src="https://spotify-readme-la-lo-go.vercel.app/api#gh-light-mode-only" alt="Spotify widget"/>
 
 </div>
