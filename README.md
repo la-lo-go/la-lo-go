@@ -87,8 +87,7 @@ If it doesn't exists, code it!
 
 # Listening to...
 
-<img height="60%" width="60%" src="https://spotify-readme-la-lo-go.vercel.app/api?theme=dark#gh-dark-mode-only" alt="Spotify widget"/>
-<img height="60%" width="60%" src="https://spotify-readme-la-lo-go.vercel.app/api#gh-light-mode-only" alt="Spotify widget"/>
+<img height="50%" width="50%" src="https://spotify-readme-la-lo-go.vercel.app/api?theme=dark#gh-dark-mode-only" alt="Spotify widget"/>
 
 </div>
 
