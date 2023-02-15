@@ -46,26 +46,25 @@ If it doesn't exists, code it!
 <a href="https://getbootstrap.com/"><img width="9%" src="imgs/bootstrap-original.svg" alt="Bootstrap"/></a>
 <a href="https://www.tailwind-tools.com/"><img width="9%" src="imgs/tailwindcss-plain.svg" alt="Tailwind"/></a>
 
+<!--
+
 ## Databases
 <a href="https://www.mysql.com/"><img width="9%" src="imgs/mysql-original-wordmark.svg" alt="MySQL"/></a>
 <a href="https://www.sqlite.org/index.html"><img width="9%" src="imgs/Sqlite-square-icon.svg" alt="SQLite"/></a>
 <a href="https://www.postgresql.org/"><img width="9%" src="imgs/postgresql-plain.svg" alt="Postgresql"/></a>
 <a href="https://www.mongodb.com/en"><img width="9%" src="imgs/mongodb-plain-wordmark.svg" alt="MongoDB"/></a>
 <img width="9%" src="imgs/microsoftsqlserver-plain-wordmark-ligth.svg#gh-dark-mode-only" alt="Microsoft SQL Server"/>
-<img width="9%" src="imgs/microsoftsqlserver-plain-wordmark-dark.svg#gh-light-mode-only" alt="Microsoft SQL Server"/>
+<img width="9%" src="imgs/microsoftsqlserver-plain-wordmark-dark.svg#gh-light-mode-only" alt="Microsoft SQL Server"/> 
+
+-->
 
 ## Tools & Technologies
 <a href="https://docker.com/"><img width="9%" src="imgs/docker-plain-wordmark.svg" alt="Docker"/></a>
-<a href="https://www.notion.so/product/"><img width="9%" src="imgs/Notion-logo.svg" alt="Notion"/></a>
-<a href="https://www.postman.com/"><img width="9%" src="imgs/getpostman-icon.svg" alt="Postman"/></a>
-
 <a href="https://www.raspberrypi.org/"><img width="9%" src="imgs/raspberrypi-original.svg" alt="Raspberry Pi"/></a>
-<img width="9%" src="imgs/railway-light.svg#gh-dark-mode-only" alt="Railway"/>
-<img width="9%" src="imgs/railway-dark.svg#gh-light-mode-only" alt="Railway"/>
 <a href="https://git-scm.com/"><img width="9%" src="imgs/git-original.svg" alt="Git"/></a>
 <img width="9%" src="imgs/github-dark.svg#gh-light-mode-only" alt="Github"/>
 <img width="9%" src="imgs/github-ligth.svg#gh-dark-mode-only" alt="Github"/>
-<a href="https://www.selenium.dev/"><img width="9%" src="imgs/selenium-original.svg" alt="Selenium"/></a>
+
 
 <!-- 
 
@@ -84,5 +83,11 @@ If it doesn't exists, code it!
 # Socialmedia
 <a href="https://twitter.com/la_lo_go"><img height="9%" src="imgs/TWITTER_badge.svg" alt="Twitter"/></a>
 <a href="https://www.behance.net/la-lo-go"><img height="9%" src="imgs/BEHANCE_badge.svg" alt="Behance"/></a>
-<a href="https://www.youtube.com/watch?v=8yMJI918ub4"><img height="9%" src="imgs/PAYPAL_badge.svg" alt="PayPal"/></a>
+<a href="https://youtu.be/8yMJI918ub4?t=9"><img height="9%" src="imgs/PAYPAL_badge.svg" alt="PayPal"/></a>
+
+# Listening to...
+<img height="60%" width="60%" src="https://spotify-readme-la-lo-go.vercel.app/api?theme=dark#gh-dark-mode-only" alt="Spotify"/>
+<img height="60%" width="60%" src="https://spotify-readme-la-lo-go.vercel.app/api#gh-light-mode-only" alt="Spotify widget"/>
+
 </div>
+
