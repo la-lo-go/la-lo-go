@@ -38,12 +38,12 @@ If it doesn't exists, code it!
 <a href="https://dev.w3.org/html5/spec-LC/"><img width="9%" src="imgs/html5-original.svg" alt="HTML"/></a>
 <a href="https://www.php.net/"><img width="9%" src="imgs/php-plain.svg" alt="PHP"/></a>
 <a href="https://developer.mozilla.org/en/docs/Web/JavaScript"><img width="9%" src="imgs/javascript-original.svg" alt="JavaScript"/></a>
-<a href="https://jquery.com/"><img width="9%" src="imgs/jquery-plain-wordmark.svg" alt="Jquery"/></a>
+<img width="9%" src="imgs/astro-dark.svg#gh-dark-mode-only" alt="Astro"/>
+<img width="9%" src="imgs/astro-light.svg#gh-light-mode-only" alt="Astro"/>
 
 <!-- Styles -->
 <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img width="9%" src="imgs/css3-original.svg" alt="CSS"/></a>
 <a href="https://sass-lang.com/"><img width="9%" src="imgs/sass-original.svg" alt="SASS"/></a>
-<a href="https://getbootstrap.com/"><img width="9%" src="imgs/bootstrap-original.svg" alt="Bootstrap"/></a>
 <a href="https://www.tailwind-tools.com/"><img width="9%" src="imgs/tailwindcss-plain.svg" alt="Tailwind"/></a>
 
 <!--
