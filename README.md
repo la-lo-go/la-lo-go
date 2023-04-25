@@ -1,13 +1,16 @@
 <!-- 
 	- Icons: https://devicon.dev/ 
+	- Header: https://readme-typing-svg.demolab.com/demo/
 	- A lot of stuff: https://github.com/VeroMoreno/readme-deadlines/blob/master/README-personal.md
 	- Good looking stats: https://github.com/anuraghazra/github-readme-stats
 	- Shields for states and media: https://shields.io/
 									https://dev.to/envoy_/150-badges-for-github-pnk
 -->
-<div id="content" align="center">
 
-# Hello world! I'm Lalo
+<div id="content" align="center">
+	
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=5000&center=true&vCenter=true&multiline=true&width=448&height=70&lines=Hello+there%2C+git!+I'm+Lalo)](https://git.io/typing-svg)
+
 I'm a developer interested on task automation, bots and every kind of new and exciting technology in general! 
 
 If it doesn't exists, code it!
