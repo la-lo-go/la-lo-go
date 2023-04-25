@@ -9,10 +9,8 @@
 
 <div id="content" align="center">
 	
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=5000&center=true&vCenter=true&multiline=true&width=448&height=40&lines=Hello+there%2C+git!+I'm+Lalo)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1400&pause=7000&center=true&vCenter=true&multiline=true&width=448&height=43&lines=Hello+there%2C+git!+I'm+Lalo)](https://git.io/typing-svg)
 ___
-
 I'm a developer interested on task automation, bots and every kind of new and exciting technology in general! 
 
 If it doesn't exists, code it!
