@@ -20,9 +20,9 @@ If it doesn't exists, code it!
 | :-------------------------: | :----------------------------------: |
 | ![statsOscuro][statsOscuro] | ![lenguajesOscuro][lenguajesOscuro]  |
 
-[statsOscuro]: https://github-readme-stats.vercel.app/api?username=la-lo-go&show_icons=true&hide_title=true&hide=issues&theme=blueberry&hide_border=true&border_radius=2%#gh-dark-mode-only
+[statsOscuro]: https://github-readme-stats.vercel.app/api?username=la-lo-go&show_icons=true&hide_title=true&hide=issues&rank_icon=github&theme=blueberry&hide_border=true&border_radius=2%#gh-dark-mode-only
 
-[statsClaros]: https://github-readme-stats.vercel.app/api?username=la-lo-go&show_icons=true&hide_title=true&theme=buefy&hide_border=true&border_radius=2%#gh-light-mode-only
+[statsClaros]: https://github-readme-stats.vercel.app/api?username=la-lo-go&show_icons=true&hide_title=true&hide=issues&rank_icon=github&theme=buefy&hide_border=true&border_radius=2%#gh-light-mode-only
 
 [lenguajesOscuro]: https://github-readme-stats.vercel.app/api/top-langs/?username=la-lo-go&layout=compact&hide_title=true&theme=blueberry&hide_border=true&border_radius=2%&langs_count=6#gh-dark-mode-only
 
