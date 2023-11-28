@@ -76,12 +76,16 @@ If it doesn't exists, code it!
 
 -->
 
+<!-- 
+
 # Graphic Desing Stack
 <a href="https://www.adobe.com/products/photoshop.html"><img width="9%" src="imgs/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop"/></a>
 <a href="https://www.adobe.com/products/illustrator.html"><img width="9%" src="imgs/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator"/></a>
 <a href="https://www.adobe.com/products/premiere.html"><img width="9%" src="imgs/Adobe_Premiere_Pro_CC_logo.svg" alt="Adobe Premiere"/></a>
 <a href="https://www.adobe.com/products/indesign.html"><img width="9%" src="imgs/Adobe_InDesign_CC_logo.svg" alt="Adobe InDesign"/></a> 
 <a href="https://affinity.serif.com/en-gb/designer/"><img width="9%" src="imgs/AffinityDesigner.svg" alt="Affinity Designer"/></a>
+-->
+
 
 # Socialmedia
 <a href="https://twitter.com/la_lo_go"><img height="9%" src="imgs/TWITTER_badge.svg" alt="Twitter"/></a>
