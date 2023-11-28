@@ -28,7 +28,10 @@ If it doesn't exists, code it!
 
 [lenguajesClaro]: https://github-readme-stats.vercel.app/api/top-langs/?username=la-lo-go&layout=compact&hide_title=true&theme=buefy&hide_border=true&border_radius=2%&langs_count=6#gh-light-mode-only
 
+<!-- 
 # Tech Stack
+-->
+
 ## Languages
 <a href="https://www.python.org/"><img width="9%" src="imgs/python-original.svg" alt="Python"/></a>
 <a href="https://www.java.com/"><img width="9%" src="imgs/java-original.svg" alt="Java"/></a>
